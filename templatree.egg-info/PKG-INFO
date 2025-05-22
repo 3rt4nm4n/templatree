@@ -77,7 +77,7 @@ EOD
 templatree create -venv example_virtualenv --from-file example.txt exampleproject
 ```
 
-## ðŸš€ Installation
+## Installation
 
 ```bash
 pip install templatree
